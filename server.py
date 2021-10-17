@@ -44,7 +44,7 @@ def reg():
 def send_test_mail(name, fname):
     sender_email = "rdgurmeetsingh@gmail.com"
     receiver_email = "rdgurmeetsingh@gmail.com"
-    password = "9855127173"
+    password = "Gs@08061995"
 
     msg = MIMEMultipart()
     msg['Subject'] = 'Contacts from - ' + name
